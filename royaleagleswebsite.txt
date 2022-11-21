@@ -24,13 +24,13 @@
 <img src="Royal Eagles Business Card Back.jpg" alt="Royal Eagles Business Card" width="100%" height="auto";">
 <br>
 <br>
-<p title="Royal Eagles is happy to serve you">Thank you for choosing Royal Eagles to help you with your cleaning needs.</p>
+<p title="Royal Eagles is happy to serve you">Thank you for choosing Royal Eagles to help you with your cleaning needs and more. We help humans in all aspects of life.</p>
 <br>
 <br>
 
 <pre style="font-size:50px;color:blue;">I am big 
 Royal Eagles is happy to serve you
-Thank you for choosing Royal Eagles to help you with your cleaning needs.
+Thank you for choosing Royal Eagles.
 </pre>
 
 
